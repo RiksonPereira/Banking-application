@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.javagiudes.banking.BankingAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.520 s -- in net.javagiudes.banking.BankingAppApplicationTests

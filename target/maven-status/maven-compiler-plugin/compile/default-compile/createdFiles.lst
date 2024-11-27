@@ -1,0 +1,8 @@
+net\javagiudes\banking\BankingAppApplication.class
+net\javagiudes\banking\entity\Account.class
+net\javagiudes\banking\service\AccountService.class
+net\javagiudes\banking\repository\AccountRepository.class
+net\javagiudes\banking\mapper\AccountMapper.class
+net\javagiudes\banking\controller\AccountController.class
+net\javagiudes\banking\service\impl\AccountServiceImpl.class
+net\javagiudes\banking\dto\AccountDto.class
